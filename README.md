@@ -19,4 +19,4 @@
 
 
 ### 💻 Workspace Spec
-[![LeetCode Stats](https://leetcode.card.workers.dev/Aframariyam1?theme=unicorn&font=source_code_pro&extension=null)](https://leetcode.com/u/Aframariyam1/)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Aframariyam1?theme=dark&font=Cinzel)
